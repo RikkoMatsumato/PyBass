@@ -1,5 +1,7 @@
 import ctypes
 import os
+
+BASS_LOOP = int(0x4)
 def GetMainDLL():
     try:
         dllpath = os.path.join(os.path.dirname(__file__), 'x64_bass\\bass.dll')
