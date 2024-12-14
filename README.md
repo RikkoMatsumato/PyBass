@@ -3,4 +3,4 @@ This is Library for UN4Seen BASS(Python Implementation for Init MP3 Or WAV)... S
 
 ## Donation
 
-[Patreon](https://patreon.com/riritoninigaya)
+Coming Soon!!!
